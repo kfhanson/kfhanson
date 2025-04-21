@@ -6,8 +6,8 @@
 
 ###
 
-<div align="center" href="https://www.linkedin.com/in/karldritz/">
-  <img href="https://www.linkedin.com/in/karldritz/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+<div align="center">
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/karldritz/)
 </div>
 
 ###
