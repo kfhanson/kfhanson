@@ -5,6 +5,7 @@
 ###
 
 <p align="left">Computer Science Student from Indonesia, currently studying in Taiwan</p>
+<p align="left">I have a keen interest in AI/ML, but I aslo do Web Development and Application Programming</p>
 
 ###
 
