@@ -4,8 +4,8 @@
 
 ###
 
-<p align="left">Computer Science Student from Indonesia, currently studying in Taiwan</p>
-<p align="left">I have a keen interest in AI/ML, but I also do Web Development and Application Programming</p>
+<p align="left">Computer Science Student based in Indonesia</p>
+<p align="left">I have a keen interest in AI/ML, but I also do Web Development and Software Programming</p>
 
 ###
 
