@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/kfhanson">
-  <img src="https://readme-typing-svg.demolab.com?font=Schoolbell&size=26&duration=3500&pause=1000&color=000000FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Karldritz;AI+Engineer+and+Research." alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Schoolbell&size=26&duration=1500&pause=2000&color=000000FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Karldritz;AI+Engineer+and+Research." alt="Typing header" />
 </a>
 
 </div>
