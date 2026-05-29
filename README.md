@@ -11,6 +11,7 @@
 ### About
 
 Currently student based in Indonesia. I find AI fascinating.
+
 Currently working on DRL, Genetic Algorithms, LLMs, Harness Engineering, etc.
 
 ### Connect
